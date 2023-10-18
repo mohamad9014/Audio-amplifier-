@@ -11,3 +11,5 @@ Resistances can be determined from the voltage gain.
 From the formula we have gain:
 ![Alt text](Capture.jpg)
 # Result :
+Sine signal output with 100mV input amplitude:
+![Alt text](output_sig_100m.jpg)
