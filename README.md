@@ -17,7 +17,12 @@ From the formula we have gain:
 Sine signal output with 100mV input amplitude:
 ![Alt text](output_sig_100m.jpg)
 ![Alt text](value of output.jpg)
-instantaneous power
-![Alt text](output_sig_100m.jpg)
+transient power
+![Alt text](output power.jpg)
+maximum output swing 
+![Alt text](output swing.jpg)
+maximum output power 
+![Alt text](max_power.jpg)
+![Alt text](value of max power.jpg)
 
 
