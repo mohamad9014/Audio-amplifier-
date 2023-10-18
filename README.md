@@ -6,4 +6,4 @@ this amplifier consumes 14 W power with speaker load 8 ohm,suply source ±9 V , 
 # How to design cicruit :
 ![Alt text](sh1.jpg)
 I want to determind maximum output load voltage and for that task i must write KVL in the critical path of load (Bottom image illustrates the critical path).
-![Alt text](photo_2023-10-18_21-09-48.jpg)
+![Alt text](photo_2023-10-18_21-09-19.jpg)
