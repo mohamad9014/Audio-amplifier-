@@ -5,3 +5,4 @@ OP-176 and  AB class amplifier are used in first and second stages , respectivel
 this amplifier consumes 14 W power with speaker load 8 ohm,suply source ±9 V , maximum gain 63.2 db ,and output voltage  swing ± 6.79
 # How to design cicruit :
 ![Alt text](sh1.jpg)
+
